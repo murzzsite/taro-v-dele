@@ -155,3 +155,5 @@ details > p, details > div { margin-top: 6px; max-width: 70ch; }
 .cta__in--one { grid-template-columns: 1fr; }
 .price { font-family: var(--serif); font-size: var(--step-lead); color: var(--accent-dark); margin-top: 10px; }
 .note { font-size: var(--step-small); color: var(--muted); margin-top: 16px; }
+@media (max-width: 900px) { .bar__nav a:not(.btn) { display: inline; } .bar__nav { gap: 14px; } .bar__in { gap: 12px; } }
+@media (max-width: 420px) { .logo { font-size: 1.2rem; } .bar__nav { font-size: .8125rem; gap: 10px; } }
