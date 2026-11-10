@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /materials.html
+Disallow: /scripts.html
+Disallow: /presentation.html
+Disallow: /outreach.html
+
+Sitemap: https://xn--80aegea9arpq.xn--p1ai/sitemap.xml
