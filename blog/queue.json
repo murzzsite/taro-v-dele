@@ -3,14 +3,6 @@
   "updated": "2026-11-18",
   "awaiting": [
     {
-      "slug": "neyrografika-ochishchenie-ot-negativa",
-      "path": "articles/neyrografika-ochishchenie-ot-negativa.md",
-      "title": "Нейрографика для очищения от негатива: как проходит работа",
-      "description": "Как проходит очищение от негатива нейрографикой: диагностика на Таро, рисунок с разбором, итоговый расклад через два дня. Этапы, цена 10 000 ₽ и границы метода.",
-      "reading_time": "10 мин чтения",
-      "preview_url": "https://xn--80aegea9arpq.xn--p1ai/blog/preview/564d76971f1a/neyrografika-ochishchenie-ot-negativa/"
-    },
-    {
       "slug": "skolko-stoit-rasklad-taro-onlayn",
       "path": "articles/skolko-stoit-rasklad-taro-onlayn.md",
       "title": "Сколько стоит расклад Таро онлайн: цены и порядок работы",
@@ -19,7 +11,13 @@
       "preview_url": "https://xn--80aegea9arpq.xn--p1ai/blog/preview/a93f59b96a59/skolko-stoit-rasklad-taro-onlayn/"
     }
   ],
-  "scheduled": [],
+  "scheduled": [
+    {
+      "slug": "neyrografika-ochishchenie-ot-negativa",
+      "title": "Нейрографика для очищения от негатива: как проходит работа",
+      "date": "2026-11-25"
+    }
+  ],
   "published": [
     {
       "slug": "kakoy-rasklad-taro-vybrat",
