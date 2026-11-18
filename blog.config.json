@@ -1,0 +1,40 @@
+{
+  "siteName": "Таро в деле",
+  "siteUrl": "https://xn--80aegea9arpq.xn--p1ai",
+  "lang": "ru",
+  "repo": "murzzsite/taro-v-dele",
+  "ref": "8EVWC7QFRF",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Статьи о раскладах Таро и нейрографике: как это устроено, чем отличаются расклады и с чего начать.",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Татьяна",
+    "jobTitle": "Практик Таро и нейрографики",
+    "type": "Person"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Опишите свой запрос в форме — отвечу и подскажу, какой расклад подойдёт.",
+  "ctaButton": "Оставить заявку",
+  "ctaUrl": "/#form",
+  "disclaimer": "Материал носит развлекательно-информационный характер и не заменяет консультацию специалиста. При вопросах о здоровье обращайтесь к врачу, при тяжёлых переживаниях — к психологу.",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/",
+    "/privacy.html"
+  ],
+  "indexNowKey": "bf9cbca4b718e6bb6275f99fe442390b",
+  "previewSecret": "ef79a03a4db1073a",
+  "theme": {
+    "accent": "var(--accent)",
+    "bg": "var(--bg)",
+    "surface": "var(--surface)",
+    "ink": "var(--accent-dark)",
+    "text": "var(--text)",
+    "soft": "var(--text-soft)",
+    "line": "var(--border)",
+    "accent-soft": "color-mix(in srgb, var(--accent) 10%, #ffffff)"
+  }
+}
