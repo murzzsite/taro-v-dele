@@ -3,14 +3,6 @@
   "updated": "2026-11-18",
   "awaiting": [
     {
-      "slug": "kakoy-rasklad-taro-vybrat",
-      "path": "articles/kakoy-rasklad-taro-vybrat.md",
-      "title": "Какой расклад Таро выбрать под свой запрос",
-      "description": "Триплет, расклад энергий, чакровый, 5-Усин, годовой, родовой: чем отличаются расклады Таро и какой подойдёт под вашу ситуацию. Подсказки и цены.",
-      "reading_time": "10 мин чтения",
-      "preview_url": "https://xn--80aegea9arpq.xn--p1ai/blog/preview/ca97e0df8805/kakoy-rasklad-taro-vybrat/"
-    },
-    {
       "slug": "neyrografika-ochishchenie-ot-negativa",
       "path": "articles/neyrografika-ochishchenie-ot-negativa.md",
       "title": "Нейрографика для очищения от негатива: как проходит работа",
@@ -28,5 +20,12 @@
     }
   ],
   "scheduled": [],
-  "published": []
+  "published": [
+    {
+      "slug": "kakoy-rasklad-taro-vybrat",
+      "title": "Какой расклад Таро выбрать под свой запрос",
+      "url": "https://xn--80aegea9arpq.xn--p1ai/blog/kakoy-rasklad-taro-vybrat/",
+      "date": "2026-11-18"
+    }
+  ]
 }
