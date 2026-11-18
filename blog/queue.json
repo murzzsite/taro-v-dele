@@ -1,21 +1,17 @@
 {
   "site": "https://xn--80aegea9arpq.xn--p1ai",
   "updated": "2026-11-18",
-  "awaiting": [
-    {
-      "slug": "skolko-stoit-rasklad-taro-onlayn",
-      "path": "articles/skolko-stoit-rasklad-taro-onlayn.md",
-      "title": "Сколько стоит расклад Таро онлайн: цены и порядок работы",
-      "description": "Цены на расклады Таро онлайн от 300 до 5 000 ₽: что входит в стоимость, как проходит работа в переписке и на консультации и на что смотреть при заказе.",
-      "reading_time": "10 мин чтения",
-      "preview_url": "https://xn--80aegea9arpq.xn--p1ai/blog/preview/a93f59b96a59/skolko-stoit-rasklad-taro-onlayn/"
-    }
-  ],
+  "awaiting": [],
   "scheduled": [
     {
       "slug": "neyrografika-ochishchenie-ot-negativa",
       "title": "Нейрографика для очищения от негатива: как проходит работа",
       "date": "2026-11-25"
+    },
+    {
+      "slug": "skolko-stoit-rasklad-taro-onlayn",
+      "title": "Сколько стоит расклад Таро онлайн: цены и порядок работы",
+      "date": "2026-12-02"
     }
   ],
   "published": [
