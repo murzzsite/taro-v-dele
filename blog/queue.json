@@ -1,13 +1,8 @@
 {
   "site": "https://xn--80aegea9arpq.xn--p1ai",
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "awaiting": [],
   "scheduled": [
-    {
-      "slug": "neyrografika-ochishchenie-ot-negativa",
-      "title": "Нейрографика для очищения от негатива: как проходит работа",
-      "date": "2026-11-25"
-    },
     {
       "slug": "skolko-stoit-rasklad-taro-onlayn",
       "title": "Сколько стоит расклад Таро онлайн: цены и порядок работы",
@@ -15,6 +10,12 @@
     }
   ],
   "published": [
+    {
+      "slug": "neyrografika-ochishchenie-ot-negativa",
+      "title": "Нейрографика для очищения от негатива: как проходит работа",
+      "url": "https://xn--80aegea9arpq.xn--p1ai/blog/neyrografika-ochishchenie-ot-negativa/",
+      "date": "2026-11-25"
+    },
     {
       "slug": "kakoy-rasklad-taro-vybrat",
       "title": "Какой расклад Таро выбрать под свой запрос",
